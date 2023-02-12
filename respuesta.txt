@@ -1,1 +1,1 @@
-No hubo ningun problema con el punto anterior
+No permite que se visualice una caperta vacia en github
