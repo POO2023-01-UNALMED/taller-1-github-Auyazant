@@ -1,0 +1,1 @@
+No permite que se visualice una caperta vacia en github
